@@ -1,0 +1,29 @@
+{
+  "name": "file-character-countrrr",
+  "version": "1.0.0",
+  "description": "Count characters in a string, including Unicode characters.",
+  "type": "module",
+  "main": "./index.js",
+  "exports": {
+    ".": "./index.js"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "character",
+    "counter",
+    "string",
+    "text",
+    "utility"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ]
+}
